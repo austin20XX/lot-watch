@@ -6,6 +6,7 @@
     "typescript": "^5.4.3"
   },
   "scripts": {
+    "start": "npx http-server ./src",
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
