@@ -11,7 +11,7 @@
     "webpack-dev-server": "^5.1.0"
   },
   "scripts": {
-    "start": "npx http-server ./src",
+    "start": "npx http-server ./build",
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
