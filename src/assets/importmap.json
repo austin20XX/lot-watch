@@ -1,5 +1,5 @@
 {
   "imports": {
-    "leaflet": "https://unpkg.com/browse/leaflet@1.9.4/dist/leaflet-src.esm.js"  
+    "leaflet": "https://cdn.jsdelivr.net/npm/leaflet@1.9.4/+esm"  
   }
 }
